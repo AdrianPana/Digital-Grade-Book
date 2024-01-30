@@ -5,7 +5,7 @@
 
 -	mediu
 ##	Timp alocat rezolvarii
-- 20-30 ore (n-am masurat)
+- 20-30 ore
 
 # Detalii de implementare
 #	1.1 Catalog
